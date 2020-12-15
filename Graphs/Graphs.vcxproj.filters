@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Directed_Graph_Without_STL.cpp">
+    <ClCompile Include="Count-Num-of-Islands.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
