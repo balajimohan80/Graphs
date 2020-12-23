@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Count-Num-of-Islands.cpp">
+    <ClCompile Include="min-throws-towin-snake-ladder-game.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
