@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="min-throws-towin-snake-ladder-game.cpp">
+    <ClCompile Include="Least-cost-path-digraph-source-destination-m-edges.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

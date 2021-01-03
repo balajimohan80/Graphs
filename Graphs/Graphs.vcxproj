@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="min-throws-towin-snake-ladder-game.cpp" />
+    <ClCompile Include="Least-cost-path-digraph-source-destination-m-edges.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
