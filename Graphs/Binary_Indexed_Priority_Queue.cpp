@@ -204,7 +204,6 @@ public:
 
 
 int main() {
-#if 1
 	std::string name = { "omnamashivayashivayanamaom" };
 	B_Indexed_PQ<char> b_PQ(name.length());
 
@@ -218,11 +217,7 @@ int main() {
 		std::cout << ch << " ";
 	}
 	std::cout << "\n";
-	std::string name_2 = { "balaji" };
-#else
-	std::string name_2 = { "balaji" };
-	B_Indexed_PQ<char> b_PQ(name_2.length());
-#endif
+	std::string name_2 = { "binary" };
 	for (size_t i = 0; i < name_2.length(); i++) {
 		b_PQ.insert(i, name_2[i]);
 	}
