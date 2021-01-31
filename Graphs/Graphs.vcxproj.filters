@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="IsoMorphic_Tree.cpp">
+    <ClCompile Include="Binary_Indexed_Priority_Queue.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
