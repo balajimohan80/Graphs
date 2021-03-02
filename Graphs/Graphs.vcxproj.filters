@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Floyd-Warshall.cpp">
+    <ClCompile Include="Articulation_Point_Critical_Routers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
